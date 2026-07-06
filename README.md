@@ -21,7 +21,6 @@ https://github.com/user-attachments/assets/fe187513-3e0d-42d5-8a6e-b8928f878d17
 
 
 
-> After uploading the repository, drag & drop `StopWatch_Practice.mp4` into the README editor on GitHub once. GitHub will automatically upload it and generate a permanent video URL like the one above. Replace the URL with the generated one.
 
 ---
 
