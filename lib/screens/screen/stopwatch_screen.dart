@@ -49,7 +49,7 @@ class StopwatchScreenState extends State<StopwatchScreen> {
                   child: SizedBox(
                     width: 200,
                     child: Divider(
-                      color: Colors.white.withOpacity(0.5),
+                      color: Colors.white.withValues(alpha: 0.5),
                       thickness: 4,
                       indent: 60,
                       endIndent: 60,
